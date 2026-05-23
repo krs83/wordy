@@ -81,3 +81,10 @@ app.*.map.json
 # Файлы Firebase (если используете)
 google-services.json
 GoogleService-Info.plist
+
+# Platform specific files
+.metadata
+android/
+linux/
+test/
+web/
